@@ -45,7 +45,7 @@ Customer churn, the phenomenon of customers discontinuing services with a compan
 2. Navigate to the relevant sections within the repository:
     ```
     cd churn_prediction_lazyclassifier_93-accuracy
-'''
+
 3. Execute scripts and follow instructions provided in each section for data preprocessing, model training, and feature importance analysis.
 
 ---
