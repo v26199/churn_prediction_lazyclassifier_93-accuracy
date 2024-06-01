@@ -31,10 +31,6 @@ Customer churn, the phenomenon of customers discontinuing services with a compan
     - Development of optimized models using only key features.
     - Analysis of model performance and computational efficiency.
 
-4. README:
-    - Overview of the project, objectives, and contents.
-    - Instructions for usage, contribution guidelines, and license information.
-
 ## Usage:
 
 1. Clone the repository to your local machine:
