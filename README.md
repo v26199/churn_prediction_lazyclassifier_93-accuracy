@@ -48,7 +48,7 @@ Customer churn, the phenomenon of customers discontinuing services with a compan
 
 ### License:
 
-MIT License, Apache License 2.0, etc.
+MIT License, Apache License 2.0.
 
 ### Contribution:
 
